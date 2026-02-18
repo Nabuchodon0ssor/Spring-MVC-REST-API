@@ -43,12 +43,6 @@ Controller → Service → DAO → Entity
 ### Employee List
 ![Employee List](images/Screenshot.png)
 
-## 🧩 Project Structure
-
-spring_course_rest
-├── server → Spring MVC REST API (WAR, Tomcat)
-└── client → Java REST client (JAR)
-
 ## 🛠 Requirements
 
 - ☕ Java 8 or higher
