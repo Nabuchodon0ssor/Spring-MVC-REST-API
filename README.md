@@ -57,7 +57,7 @@ Controller → Service → DAO → Entity
 
 Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/your-username/spring-course-rest.git](https://github.com/Nabuchodon0ssor/Spring-MVC-REST-API)
+git clone https://github.com/your-username/spring-course-rest.git
 ```
 
 Or download it as a ZIP archive and extract it.
